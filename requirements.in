@@ -1,0 +1,7 @@
+build
+coverage
+httpx
+pip-tools
+pygments
+pytest
+sphinx
